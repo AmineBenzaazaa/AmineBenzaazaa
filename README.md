@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node Js**
 
-- 💬 Ask me about **React Js, Vue Js**
+- 💬 Ask me about **React Js, Vue Js, Laravel**
 
 - 📫 How to reach me **AmineBenzaza0@gmail.com**
 
