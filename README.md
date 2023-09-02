@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
 <h3 align="center">A Full Stack Developer from Morocco</h3>
 
-- 🔭 I’m currently working with [Im'ense](https://github.com/im-ense)
-
 - 🌱 I’m currently learning **Node Js**
 
 - 💬 Ask me about **React Js, Vue Js**
