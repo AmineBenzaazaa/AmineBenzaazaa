@@ -204,7 +204,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=90&section=footer"/>
 
-[linkedin]: https://www.linkedin.com/in/omarkonbor/
-[gmail]: mailto:omarkonbor@gmail.com
-[instagram]: https://www.instagram.com/konborx/
-[github]: https://github.com/konborx
+[linkedin]: https://www.linkedin.com/in/aminebenz/
+[gmail]: mailto:Medzaza910@gmail.com
+[instagram]: https://www.instagram.com/aminebenze/
+[github]: https://github.com/amineBenzaazaa
