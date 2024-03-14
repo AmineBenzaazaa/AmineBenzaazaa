@@ -8,7 +8,6 @@
 <br>
 💬 Ask me about Web Development and we'll talk all day long
 <br>
-⚡ Fun fact: I LOVE PETS! Both cats and dogs, <br> but I'm more of a cat person :D
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%2300BFBF&duration=4000&vCenter=true&height=25&lines=%F0%9F%A7%A0+Languages+and+Tools;%F0%9F%A7%A0+Tech+stack+and+so+on;)](https://git.io/typing-svg)
 
