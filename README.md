@@ -4,9 +4,9 @@
 
 🔭 I’m a Full Stack Developer!
 <br>
-🌱 I’m currently working as web3 and blockchain developer and leader 
+🌱 I’m currently working as Full Stack developer and leader 
 <br>
-💬 Ask me about Web Developement and we'll talk all day long
+💬 Ask me about Web Development and we'll talk all day long
 <br>
 ⚡ Fun fact: I LOVE PETS! Both cats and dogs, <br> but I'm more of a cat person :D
 
