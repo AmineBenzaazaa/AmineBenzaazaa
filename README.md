@@ -4,7 +4,7 @@
 
 🔭 I’m a Full Stack Developer!
 <br>
-🌱 I’m currently working as Full Stack developer and leader 
+<!-- 🌱 I’m currently working as Full Stack developer -->
 <br>
 💬 Ask me about Web Development and we'll talk all day long
 <br>
