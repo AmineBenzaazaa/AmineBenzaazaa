@@ -21,22 +21,7 @@ I am especially interested in Web3, DeFi, and product engineering work that comb
 - Node.js
 - TypeScript
 - ethers.js / web3.js
-- Moralis, Alchemy, or similar tooling
-- IPFS or Arweave storage
 
-### Bonus
-- Experience with DEX platforms
-- Understanding of async blockchain transaction flows
-
----
-
-## 🏗️ Domain Overview
-
-At Lumixion, the primary focus is on decentralized finance (DeFi) products built on EVM-compatible blockchains. The engineering team operates through specialized squads covering smart contract development, frontend integration, and security auditing. The workflow emphasizes collaboration, technical excellence, and agile delivery.
-
-The products being developed may include DeFi services such as lending, staking, and trading protocols. Core priorities include robust smart contract implementation, intuitive frontend experiences, and strong security practices to ensure safe and reliable systems.
-
-The target users include DeFi enthusiasts, developers, and investors interacting with EVM-compatible ecosystems. The goal is to deliver secure, scalable, and user-centered DeFi products through a balanced combination of engineering quality, collaboration, and product thinking.
 
 ---
 
