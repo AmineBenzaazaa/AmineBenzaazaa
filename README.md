@@ -100,28 +100,6 @@ I am especially interested in Web3, DeFi, and product engineering work that comb
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight-ruddy.vercel.app?user=amineBenzaazaa&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="contribution_streak" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/amineBenzaazaa?tab=repositories" target="_blank">
-    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amineBenzaazaa&theme=github_dark" />
-  </a>
-  <a href="https://github.com/amineBenzaazaa?tab=repositories" target="_blank">
-    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amineBenzaazaa&theme=github_dark" />
-  </a>
-</div>
-
-### 🔝 Top Languages
-<!--TOP_LANGS_START-->
-Loading…
-<!--TOP_LANGS_END-->
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
