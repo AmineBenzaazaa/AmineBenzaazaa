@@ -16,13 +16,6 @@ I am especially interested in Web3, DeFi, and product engineering work that comb
 
 ---
 
-## 🌐 DeFi / Web3 Focus
-
-### What We’re Looking For Support With
-- Wallet integration (MetaMask, WalletConnect, and similar providers)
-- Backend improvements and Web3 data flow optimization
-- Connecting mint and purchase events to platform logic
-
 ### Ideal Stack
 - Next.js
 - Node.js
