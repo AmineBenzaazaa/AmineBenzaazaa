@@ -1,9 +1,53 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%2300BFBF&duration=4000&vCenter=true&height=25&lines=%F0%9F%8C%8E+Hello+World!!;%F0%9F%8C%8E+My+name+is+Amine!;)](https://git.io/typing-svg)
+## 👋 Hello, I'm Amine
 
-🔭 I’m a Full Stack Developer  
-💬 Ask me about Web Development and we’ll talk all day long
+Full Stack Developer with experience building modern web applications across front-end and back-end systems. I work mainly with JavaScript/TypeScript ecosystems and enjoy building scalable products with clean architecture, strong performance, and practical user-focused solutions.
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%2300BFBF&duration=4000&vCenter=true&height=25&lines=%F0%9F%A7%A0+Languages+and+Tools;%F0%9F%A7%A0+Tech+stack+and+so+on;)](https://git.io/typing-svg)
+I am especially interested in Web3, DeFi, and product engineering work that combines solid backend systems, polished frontend experiences, and reliable blockchain integrations.
+
+---
+
+## 🚀 What I Focus On
+
+- Building modern full-stack applications with maintainable architecture
+- Creating responsive and user-friendly interfaces
+- Designing scalable backend services and APIs
+- Improving code quality, performance, and developer workflows
+- Integrating Web3 features into production-ready platforms
+
+---
+
+## 🌐 DeFi / Web3 Focus
+
+### What We’re Looking For Support With
+- Wallet integration (MetaMask, WalletConnect, and similar providers)
+- Backend improvements and Web3 data flow optimization
+- Connecting mint and purchase events to platform logic
+
+### Ideal Stack
+- Next.js
+- Node.js
+- TypeScript
+- ethers.js / web3.js
+- Moralis, Alchemy, or similar tooling
+- IPFS or Arweave storage
+
+### Bonus
+- Experience with DEX platforms
+- Understanding of async blockchain transaction flows
+
+---
+
+## 🏗️ Domain Overview
+
+At Lumixion, the primary focus is on decentralized finance (DeFi) products built on EVM-compatible blockchains. The engineering team operates through specialized squads covering smart contract development, frontend integration, and security auditing. The workflow emphasizes collaboration, technical excellence, and agile delivery.
+
+The products being developed may include DeFi services such as lending, staking, and trading protocols. Core priorities include robust smart contract implementation, intuitive frontend experiences, and strong security practices to ensure safe and reliable systems.
+
+The target users include DeFi enthusiasts, developers, and investors interacting with EVM-compatible ecosystems. The goal is to deliver secure, scalable, and user-centered DeFi products through a balanced combination of engineering quality, collaboration, and product thinking.
+
+---
+
+## 🛠️ Languages and Tools
 
 <table>
   <tr>
@@ -11,10 +55,10 @@
     <td>
       <img title="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
       <img title="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-      <img title="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+      <img title="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
       <img title="React.js" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
       <img title="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-      <img title="MUI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+      <img title="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
       <img title="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
       <img title="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     </td>
@@ -31,7 +75,7 @@
       <img title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img title="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
       <img title="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-      <img title="PrismaORM" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+      <img title="Prisma ORM" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -44,14 +88,14 @@
     </td>
   </tr>
   <tr>
-    <th>Automated Test</th>
+    <th>Testing</th>
     <td>
       <img title="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
       <img title="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
     </td>
   </tr>
   <tr>
-    <th>Linters</th>
+    <th>Code Quality</th>
     <td>
       <img title="ESLint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
       <img title="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
@@ -64,7 +108,7 @@
       <img title="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
       <img title="Brave" src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" />
       <img title="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
-      <img title="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+      <img title="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
       <img title="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
       <img title="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
       <img title="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
@@ -76,15 +120,15 @@
   </tr>
 </table>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%2300BFBF&duration=4000&vCenter=true&height=25&lines=%F0%9F%92%BB+Stats;%F0%9F%92%BB+And+some+nerdy+stuff+:D;)](https://git.io/typing-svg)
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Contribution streak -->
   <img src="https://github-readme-streak-stats-eight-ruddy.vercel.app?user=amineBenzaazaa&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="contribution_streak" />
 </div>
 
 <div align="center">
-  <!-- Summary cards (dynamic) -->
   <a href="https://github.com/amineBenzaazaa?tab=repositories" target="_blank">
     <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amineBenzaazaa&theme=github_dark" />
   </a>
@@ -93,13 +137,14 @@
   </a>
 </div>
 
-<!-- OPTIONAL: Auto-updated section via GitHub Action below -->
-### 🔝 Top Languages (auto)
+### 🔝 Top Languages
 <!--TOP_LANGS_START-->
 Loading…
 <!--TOP_LANGS_END-->
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%2300BFBF&duration=4000&vCenter=true&height=25&lines=%F0%9F%92%AC+You+can+find+me+on;%F0%9F%92%AC+Let's+chat+:D;)](https://git.io/typing-svg)
+---
+
+## 📫 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aminebenz/" target="_blank">
