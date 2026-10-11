@@ -2,7 +2,7 @@
 
 **Tech Lead & Senior Full-Stack Engineer** in Casablanca (GMT+1). I've been shipping production web and mobile products for 5+ years, and I build applied AI end to end: LLM pipelines and real-time computer vision.
 
-- 🧭 Tech Lead at **ECOM IN AFRICA**: I lead 3 developers and own the architecture of a cash-on-delivery e-commerce & logistics platform: 31 feature modules, 15 edge functions, 2 mobile apps and 1,947 automated tests, with 4,600+ production orders processed
+- 🧭 Tech Lead at **ECOM IN AFRICA**: I lead 3 developers and own the architecture of a cash-on-delivery e-commerce & logistics platform: 31 feature modules, 15 edge functions, 2 mobile apps and 1,947 automated tests
 - 🧬 Previously at **VSN International (UK)**: Breedsphere, a genetics data platform (React, NestJS, AWS, Playwright BDD)
 - 🎓 Master's in Artificial Intelligence at ENSAM Casablanca (in progress)
 - 🌍 English · French · Arabic. Open to remote roles and relocation (EU, Canada)
