@@ -13,6 +13,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[ECOM IN AFRICA platform](https://ecominafrica.org)** | Cash-on-delivery e-commerce & logistics platform where I'm Tech Lead (team of 3): orders, call-center confirmation, shipping & delivery, stock, Meta ads sync and a public orders API. 31 feature modules, 15 Supabase edge functions, 2 Expo mobile apps (delivery drivers, stock staff), 1,947 automated tests. | React · TypeScript · TanStack Query · Supabase (Postgres, edge functions) · Expo / React Native · Playwright · Vitest |
 | **[SentraPPE](https://sentrappe.com)** | Detects missing PPE in real time on a site's existing CCTV (RTSP) and raises HSE alerts. 10-class detection edge agent (277 passing tests) plus a React dashboard; demoed to industrial clients and presented at the BDO Digital Trophy. | Python · Ultralytics YOLO · OpenCV · edge inference · React · Supabase |
 | **[Nursentra](https://nursentra.com)** | NCLEX prep app: 187 lessons across 22 modules, 1,200+ practice questions, 1,300 spaced-repetition flashcards, 160 automated tests. Content built with a multi-agent LLM workflow; a Python pipeline auto-generates quiz videos. | React Native · TypeScript · Claude API · Python/Pillow |
 | **CodFlow** | Order management for cash-on-delivery merchants in African markets: orders, fulfilment tracking, delivery workflows. | React · TypeScript · NestJS · PostgreSQL |
